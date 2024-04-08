@@ -29,7 +29,7 @@
  */
 #include <arrayutils.h>
 
-#include "emapi.h"
+#include "main.h"
 
 /* MACROS ====================================================================*/
 
